@@ -26,7 +26,7 @@ interests:
 
 education:
   courses:
-  - course: BS Biology
+  - course: B.S. Biology
     institution: Newman University
 
 social:
