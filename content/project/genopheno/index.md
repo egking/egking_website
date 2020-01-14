@@ -8,63 +8,23 @@ image:
   focal_point: Smart
 ---
 
-We have a long-term collaborative project with [Dr. Theodore Garland,
-Jr.](http://biology.ucr.edu/people/faculty/Garland.html) in the
-[Department of Biology at the University of California,
-Riverside](http://biology.ucr.edu/), studying the effects of exercise
-and artificial selection on skeletal morphology and bone mechanics in
-house mice.
 
-The Garland Lab has been artificially selecting mice for high levels
-of voluntary wheel running for more than 60 generations. These
-"high-runner" mice can run more than 25 km in one night, which is
-taxing to most physiological systems. In the lab, we are particularly
-interested in the effects (both separate and combined) of exercise
-and artificial selection on skeletal form, growth, physiology, and
-function.
+The DSPR RILs (see the [Development of multiparent population resources project page](/project/mpp)) facilitate systems-level analyses of the genetic architecture of complex traits in several ways: 1) multiple traits can be measured on the same set of RILs, 2) phenotypes can be integrated at multiple different levels, such as gene expression, physiological traits, and visible phenotypes, 3) the genetically identical RILs can be reared in a multitude of different environmental conditions or at different life stages. Our lab has several projects focused using these RILs to learn about different sets of complex traits.  
 
-### Inbred High Activity Mini-Muscle Mice
+### Resource Allocation Phenotypes
 
-A major project in the lab is the establishment of an inbred strain
-of high-activity mice that exhibit the mini-muscle phenotype. This
-project was begun in 2007. As of Fall 2014, we are over 20
-generations into inbreeding and can now officially say that the
-strain is inbred.
+In many ways, allocation strategies are the ultimate complex trait. The allocation of resources is thought to influence nearly all the major structures and functions of an organism, is affected by an array of interacting physiological pathways, varies across the lifetime of the organism, and interacts with many different environmental factors. This underlying complexity makes identifying most of the causative genetic variants very challenging. While the physiological mechanisms underlying the metabolism and allocation of nutrients are fairly well understood and many of the major genes encoding the proteins in these physiological pathways are known, very little is known about the source of natural variation in allocation. We are currently working to measure multiple interrelated phenotypes across multiple levels from gene expression measures to physiological traits (e.g., lipid content, hormone levels, metabolic rate) to life history traits (e.g., median lifespan, fecundity) in multiple nutritional environments using the DSPR RILs with the long term goal of elucidating the relationship between causative genetic variants, environmental influences, transcriptome level phenotypes, physiological phenotypes, and visible phenotypes.
 
 <figure>
-<img src="/img/mice_1.png">
-<figcaption>When standardized to body mass, mice with the mini-muscle phenotype (left) have significantly longer and thinner femora than randomly bred controls (right).</figcaption>
+<img src="/img/LifeQTL.png" >
+<figcaption>A genome scan showing QTL for both a composite variable for IIS/TOR gene expression and lifespan on different nutritional diets.</figcaption>
 </figure>
 
-The strain of mice that results from the project, which will both
-exhibit the mini-muscle allele and have genes enabling them to run
-great distances are a potential model organism for human
-musculoskeletal diseases and disorders. For example, mice can be
-crossed with other strains of mice known to have high or low bone
-mass to dissect the complex interaction between muscle function and
-normal bone growth.
+### Place Learning and Place Memory
+
+In a second collaborative project with [Dr. Troy Zars](https://scholar.google.com/citations?user=Bnpp9vYAAAAJ&hl=en) we are working to identify natural genetic variants influencing place learning and memory. Learning and memory are critical functions for all animals, giving individuals the ability to respond effectively to changes in their environment. Within populations, individuals vary, however the mechanisms underlying this variation in performance are largely unknown. There are very few cases where a segregating genetic variant has been shown to affect any behavior, and none have been identified for place learning or memory. Thus, it remains to be determined what genetic factors cause an individual to have high learning ability, and what factors determine how well an individual will remember what they have learned. Fruit flies can be trained in a “heat box” to learn to remain on one side of a chamber (place learning), and can remember this (place memory) over short timescales. Using this methodology, we have mapped QTL for these traits and are working toward validating the underlying genetic mechanisms at work.
 
 <figure>
-<img src="/img/mice_2.png">
-<figcaption>Comparison of mini-muscle (left) and wild-type (right) phenotype triceps surae muscle. The mini-muscle is about 50% less massive. (Photo courtesy of Mark Chappell)</figcaption>
+<img src="/img/LearnMem.png" >
+<figcaption>A genome scan showing QTL for both place learning and place memory with several QTL shared between both traits.</figcaption>
 </figure>
-
-Future experiments may include physiological measurements such as
-maximal oxygen consumption during strenuous exercise. High-runner
-mice generally have higher oxygen consumption, but this varies
-depending of the presence of the mini-muscle allele. Additionally,
-inbreeding may affect the physiological capacity of mice, so
-comparisons between the mice described in this experiment and
-"regular" high-runner mice will provide insights into the complex
-regulation of physiology. Research in the lab also concerns
-differences in bone shape and materials between mini-muscle mice and
-both high-runner mice and “standard” strains of lab mice.
-
-Comparisons of shape and breaking strength with other types of mice
-will help us understand how genetics control the formation and,
-ultimately, function of the skeleton. In humans, for instance, it has
-been shown that certain bone shapes are more prone to fracture, and
-that these shape differences are genetically determined. By studying
-the same relationship in a model organism, in which we can have much
-greater experimental control, we will be able to better understand
-human biology.
