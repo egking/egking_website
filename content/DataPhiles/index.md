@@ -20,7 +20,11 @@ DataPhiles is an opportunity to discuss practical issues surrounding analyzing d
 
 ### Schedule
 
-#### DataPhiles is currently on a Winter Hiatus and will return in January
+#### January 2020
+
+- January 24: Emily Kinzinger 
+
+#### Winter Hiatus 
 
 #### December 2019
 
