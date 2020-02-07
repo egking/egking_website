@@ -20,7 +20,17 @@ DataPhiles is an opportunity to discuss practical issues surrounding analyzing d
 
 ### Schedule
 
-#### DataPhiles is currently on a Winter Hiatus and will return in January
+#### February 2020
+
+- February 14: Garrett Frandson
+- February 7: Emily Kinzinger
+
+#### January 2020
+
+- January 31: No DataPhiles - Life Sciences Graduate Recruitment Events
+- January 24: Canceled due to snow. 
+
+#### Winter Hiatus 
 
 #### December 2019
 
