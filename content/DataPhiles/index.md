@@ -22,6 +22,7 @@ DataPhiles is an opportunity to discuss practical issues surrounding analyzing d
 
 #### February 2020
 
+- February 21: Tom Anderson
 - February 14: Garrett Frandson
 - February 7: Emily Kinzinger
 
