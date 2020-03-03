@@ -29,8 +29,15 @@ If you are interested in DataPhiles, then consider joining MU R Users slack grou
 
 ### Schedule
 
+
 #### February 2020
 
+- March 6: Shawn Abrahams and Jacob Bouchier
+
+
+#### February 2020
+
+- February 28: Group working session
 - February 21: Tom Anderson
 - February 14: Garrett Frandson
 - February 7: Emily Kinzinger
