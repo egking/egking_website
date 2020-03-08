@@ -18,10 +18,28 @@ DataPhiles is a community for those who love data. Email Dr. King to request to 
 
 DataPhiles is an opportunity to discuss practical issues surrounding analyzing data in an informal, low pressure forum. Each week, a volunteer will bring a data set, give a short presentation (8-12 minutes) outlining the basic biology/natural history of their system, giving a general description of their questions (why/what they want out of the data), perhaps presenting a few preliminary and/or graphical results on the data (graphical presentations of the data are strongly encouraged), and a description of the statistical techniques they've used or are thinking of using, or particular problems they're having with the analysis. The floor is then open for general question & answer/discussion. Email a one- or two-sentence blurb about your topic to volunteer to present: [kingeg@missouri.edu](mailto:kingeg@missouri.edu)
 
+### MU R Users Slack Group
+
+<figure>
+<img style = "float:right; margin: 0 0 0 0" src="/img/R_MUSers.png" width="20%"  />
+</figure>
+
+If you are interested in DataPhiles, then consider joining MU R Users slack group. We hope this will be a place where people can ask questions and help each other out, as are trying to build a self-sustaining community of R people across disciplines. [Join the Slack group here](https://join.slack.com/t/r-musers-group/shared_invite/enQtOTQwODg3MzkyOTAzLTQzYWI1ODAzMDIyY2IzZmJjMDRmZTQyZDU2ZjY4YWY2YzY1ODM5YTIyMGM4NDhkMDliMjg3MWQ5YmMzNjdkNWQ) or email for more information: [kingeg@missouri.edu](mailto:kingeg@missouri.edu).
+
+
 ### Schedule
+
 
 #### February 2020
 
+- March 6: Shawn Abrahams and Jacob Bouchier
+
+
+#### February 2020
+
+- February 28: Group working session
+- February 21: Tom Anderson
+- February 14: Garrett Frandson
 - February 7: Emily Kinzinger
 
 #### January 2020
