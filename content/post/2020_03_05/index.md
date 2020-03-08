@@ -2,7 +2,7 @@
 title: "Patricka Williams-Simon, Ronel Ghidey, and Jordyn Moaton Win GSA Awards"
 summary: ""
 abstract: ""
-date: 2020-01-14
+date: 2020-03-05
 image:
   preview_only: true
   caption: ''
