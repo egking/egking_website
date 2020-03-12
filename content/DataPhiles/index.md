@@ -30,8 +30,9 @@ If you are interested in DataPhiles, then consider joining MU R Users slack grou
 ### Schedule
 
 
-#### February 2020
+#### March 2020
 
+- March 13: No DataPhiles
 - March 6: Shawn Abrahams and Jacob Bouchier
 
 
