@@ -30,9 +30,10 @@ If you are interested in DataPhiles, then consider joining MU R Users slack grou
 ### Schedule
 
 
+#### DataPhiles is currently on Hiatus due to COVID-19
+
 #### March 2020
 
-- March 13: No DataPhiles
 - March 6: Shawn Abrahams and Jacob Bouchier
 
 
