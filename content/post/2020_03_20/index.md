@@ -13,7 +13,7 @@ COVID-19 is spreading in the United States and we have a case in Boone County. S
 
 - **Under no circumstances** should you come to work (or go anywhere) if you are sick. You should also not have any contact with other lab members. This is always the case but is especially important as we try to slow the spread of COVID-19. 
 
-- Anyone who is able to work remotely **must do so**. This minimizes the risk both to those of us working remotely and to those of us that must come to the lab to do essential work (keeping the flies alive). We will not have more than one person in the lab at a time. Our schedule is [here.](https://docs.google.com/spreadsheets/d/1IdHskHFfGLFbE0pFO5mOnX0uwffbJgXQFXI-qccaybI/edit?usp=sharing) No one is allowed to be in the lab if it is not on the schedule. 
+- Anyone who is able to work remotely **must do so**. This minimizes the risk both to those of us working remotely and to those of us that must come to the lab to do essential work (keeping the flies alive). We will not have more than one person in the lab at a time. Our schedule is on the google sheet pinned in our Lab Slack. No one is allowed to be in the lab if it is not on the schedule. 
 
 - If you do need to come to lab to perform essential work, wash your hands before and after doing any lab work. Disinfect any shared surfaces you have used.  
 
