@@ -30,7 +30,10 @@ If you are interested in DataPhiles, then consider joining MU R Users slack grou
 ### Schedule
 
 
-#### DataPhiles is currently on Hiatus due to COVID-19
+#### April 2020
+
+- April 3: [Mixed Models Offer No Freedom from Degrees of Freedom](https://www.sciencedirect.com/science/article/pii/S0169534719303465)               
+
 
 #### March 2020
 
