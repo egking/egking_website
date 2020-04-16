@@ -37,8 +37,9 @@ If you are interested in DataPhiles, then consider joining MU R Users slack grou
 #### April 2020
 
 - April 24: TBD
-- April 17: 
+- April 17: 2 Papers:
 [Ten Simple Rules for Reproducible Computational Research](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003285)
+and
 [A Quick Guide to Organizing Computational Biology Projects](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000424)
 
 - April 10: Open Q & A
