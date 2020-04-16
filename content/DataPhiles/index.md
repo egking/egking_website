@@ -30,8 +30,18 @@ If you are interested in DataPhiles, then consider joining MU R Users slack grou
 ### Schedule
 
 
+#### May 2020
+
+- May 1: Lauren Sullivan
+
 #### April 2020
 
+- April 24: TBD
+- April 17: 
+[Ten Simple Rules for Reproducible Computational Research](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003285)
+[A Quick Guide to Organizing Computational Biology Projects](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000424)
+
+- April 10: Open Q & A
 - April 3: [Mixed Models Offer No Freedom from Degrees of Freedom](https://www.sciencedirect.com/science/article/pii/S0169534719303465)               
 
 
