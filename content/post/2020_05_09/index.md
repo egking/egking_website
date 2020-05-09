@@ -14,7 +14,7 @@ image:
 <figcaption>Anna and Bella out for a celebratory hike.</figcaption>
 </figure>
 
-[Anna Perinchery-Herman](/authors/b2perinchery/) is now officially Anna Perinchery-Herman, Ph.D. Her dissertation focused on understanding the genetic basis and evolution of energy budget components (lipids, carbohydrates, & protien) in different diet conditions. She found some really interesting patterns of variability in these traits accross different diets.
+[Anna Perinchery-Herman](/authors/b1perinchery/) is now officially Anna Perinchery-Herman, Ph.D. Her dissertation focused on understanding the genetic basis and evolution of energy budget components (lipids, carbohydrates, & protien) in different diet conditions. She found some really interesting patterns of variability in these traits accross different diets.
 
 <figure>
 <img src="diet.png" width = "75%">
