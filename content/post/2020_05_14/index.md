@@ -21,11 +21,11 @@ Locally, COVID-19 cases in Boone County have remained fairly stable and the Univ
 
 ### In Person Work
 
-- Perfoming in person work is purely voluntary. If you wish to return to in person work, you must communicate this to Dr. King, and work with her to submit a formal request for approval. We will strictly follow the [University of Missouri Behavior Guidance During Pandemic](https://mualert.missouri.edu/coronavirus/renewal/precautions.html). 
+- Performing in person work is purely voluntary. If you wish to return to in person work, you must communicate this to Dr. King, and work with her to submit a formal request for approval. We will strictly follow the [University of Missouri Behavior Guidance During Pandemic](https://mualert.missouri.edu/coronavirus/renewal/precautions.html). 
 
 - Anyone beginning experiments during this time should have a plan in place for if campus shuts down again. I hope we all remember how quickly this occurred in March. If the rate of new cases rises and/or cases emerge on campus, a shutdown will likely occur again. These scenarios are real possibilities and are part of why it is so important that we all do our best to ensure that those of us working in person are doing so out of real necessity and not simply because it would be inconvienent for us to work remotely. 
 
-- **Under no circumstances** should you come to work (or go anywhere) if you are sick or have any [COVID-19 symptoms](https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms.html) You should also not have any contact with other lab members. This is always the case but is especially important as we try to slow the spread of COVID-19. 
+- **Under no circumstances** should you come to work (or go anywhere) if you are sick or have any [COVID-19 symptoms](https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms.html). You should also not have any contact with other lab members. This is always the case but is especially important as we try to slow the spread of COVID-19. 
 
 - We will not have more than one person in the same lab space at a time. Our schedule is on the google sheet pinned in our Lab Slack. No one is allowed to be in Tucker Hall if it is not on the schedule. We will also coordinate with other members of the 4th floor Tucker to ensure we do not have too many people in shared spaces. 
 
