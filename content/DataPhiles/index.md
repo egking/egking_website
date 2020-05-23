@@ -32,11 +32,11 @@ If you are interested in DataPhiles, then consider joining MU R Users slack grou
 
 #### June 2020
 
-- June 5: Enoch Ng'oma
+- June 5: Git and Github Workshop
 
 #### May 2020
 
-- May 29: Git and Github Workshop
+- May 29: TBD
 - May 22: [Hurricane effects on Neotropical lizards span geographic and phylogenetic scales](https://paperpile.com/app/p/c6bf9019-bc7f-0863-b9de-b9dc73dc961d)
 - May 15: No DataPhiles
 - May 8: Open Q&A
