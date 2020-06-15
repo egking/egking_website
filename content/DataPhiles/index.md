@@ -32,6 +32,8 @@ If you are interested in DataPhiles, then consider joining MU R Users slack grou
 
 #### June 2020
 
+- June 19: No Dataphiles (Juneteenth holiday)
+- June 12: Git and Github Workshop (continued)
 - June 5: Git and Github Workshop
 
 #### May 2020
