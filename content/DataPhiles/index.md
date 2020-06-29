@@ -30,9 +30,8 @@ If you are interested in DataPhiles, then consider joining MU R Users slack grou
 ### Schedule
 
 
-#### July 2020
+#### Summer Hiatus
 
-**Summer Hiatus
 
 #### June 2020
 
