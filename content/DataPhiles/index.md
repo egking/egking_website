@@ -30,8 +30,13 @@ If you are interested in DataPhiles, then consider joining MU R Users slack grou
 ### Schedule
 
 
+#### July 2020
+
+**Summer Hiatus
+
 #### June 2020
 
+- June 26: Libby King
 - June 19: No Dataphiles (Juneteenth holiday)
 - June 12: Git and Github Workshop (continued)
 - June 5: Git and Github Workshop
@@ -46,7 +51,7 @@ If you are interested in DataPhiles, then consider joining MU R Users slack grou
 
 #### April 2020
 
-- April 24: TBD
+- April 24: Christian Perez
 - April 17: 2 Papers:
 [Ten Simple Rules for Reproducible Computational Research](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003285)
 and
