@@ -1,5 +1,5 @@
 ---
-title: "Initial Re-opening in the COVID-19 Pandemic"
+title: "Lab Re-opening in the COVID-19 Pandemic"
 summary: ""
 abstract: ""
 date: 2020-05-18
@@ -9,7 +9,7 @@ image:
   focal_point: Smart
 ---
 
-Locally, COVID-19 cases in Boone County have remained fairly stable and the University will begin to repopulate campus in phases. It is critical that we do so carefully and while doing everything we can to maintain the safety of our community. In the King Lab, we will operate by the following guidelines and principles below. 
+The University has begun repopulating campus in phases. It is critical that we do so carefully and while doing everything we can to maintain the safety of our community. In the King Lab, we will operate by the following guidelines and principles below. 
 
 - **Our lab will be an example of best practices** no matter what is happening in other labs. If the university community rushes to repopulate campus, the likelihood of a resurgence is high. We all want to go back to "business as usual" and you might hear about or witness people coming to campus who could complete their work remotely, or other careless actions contrary to our shared goal of limiting possible spread of COVID-19. While this will feel unfair, our lab will not contribute to this risk and we will continue to operate according to our guidelines even if others do not. 
 
