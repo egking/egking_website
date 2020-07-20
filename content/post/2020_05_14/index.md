@@ -27,9 +27,9 @@ Locally, COVID-19 cases in Boone County have remained fairly stable and the Univ
 
 - **Under no circumstances** should you come to work (or go anywhere) if you are sick or have any [COVID-19 symptoms](https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms.html). You should also not have any contact with other lab members. This is always the case but is especially important as we try to slow the spread of COVID-19. 
 
-- We will not have more than one person in the same lab space at a time. Our schedule is on the google sheet pinned in our Lab Slack. No one is allowed to be in Tucker Hall if it is not on the schedule. We will also coordinate with other members of the 4th floor Tucker to ensure we do not have too many people in shared spaces. 
-
 - If you do need to come to lab to perform work, wash your hands **before and after** doing any lab work. Disinfect any shared surfaces you have used with 70% ethanol including door and cabinet handles. You must wear a cloth mask in any shared spaces outside of the lab, including the elevator, the bathroom, etc. You may wear your own mask provided it follows [CDC guidelines](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/diy-cloth-face-coverings.html), otherwise, the lab will provide one for you.  
+
+- We will not have more than two people in the same lab space at a time. Our schedule is on the google sheet pinned in our Lab Slack. No one is allowed to be in Tucker Hall if it is not on the schedule. We will also coordinate with other members of the 4th floor Tucker to ensure we do not have too many people in shared spaces. Anytime that two people are in the lab, they must wear a cloth mask and maintain a minimum of 6 feet apart, preferably further if possible.
 
 - If you are responsible for any lab work and you become ill, become aware of exposure, or are concerned about an increased risk to yourself or someone you have regular contact with, do not come to the lab and please communicate with the lab so we can cover your lab work (back up people are on our schedule). I know we are all committed to helping each other through this. Please ask for help before trying to take care of labwork yourself if any of these things are true for you.
 
