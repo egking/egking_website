@@ -31,7 +31,7 @@ If you are interested in DataPhiles, then consider joining MU R Users slack grou
 
 #### August 2020
 
-- August 28: Enoch Ng'oma
+- August 28: Enoch Ng'oma and Andrew Jones
 
 #### Summer Hiatus
 
