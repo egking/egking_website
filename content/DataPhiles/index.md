@@ -29,9 +29,11 @@ If you are interested in DataPhiles, then consider joining MU R Users slack grou
 
 ### Schedule
 
+#### August 2020
+
+- August 28: Enoch Ng'oma
 
 #### Summer Hiatus
-
 
 #### June 2020
 
