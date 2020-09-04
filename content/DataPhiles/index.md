@@ -29,6 +29,13 @@ If you are interested in DataPhiles, then consider joining MU R Users slack grou
 
 ### Schedule
 
+#### September 2020
+
+- September 25: Marianne Slaten 
+- September 18: TBA 
+- September 11: No DataPhiles
+- September 4: Open Q & A
+
 #### August 2020
 
 - August 28: Enoch Ng'oma and Andrew Jones
