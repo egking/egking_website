@@ -36,7 +36,7 @@ If you are interested in DataPhiles, then consider joining MU R Users slack grou
 
 #### September 2020
 
-- September 25: Marianne Slaten 
+- September 25: Shawn Abrahams
 - September 18: Open Q & A
 - September 11: No DataPhiles
 - September 4: Open Q & A
