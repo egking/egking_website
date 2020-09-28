@@ -32,7 +32,7 @@ If you are interested in DataPhiles, then consider joining MU R Users slack grou
 #### October 2020
 
 - October 9: Gaurav Kandlikar
-- October 2: TBA 
+- October 2: Open Q & A
 
 #### September 2020
 
