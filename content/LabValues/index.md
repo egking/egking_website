@@ -1,5 +1,5 @@
 ---
-title: "Lab Values"
+title: "King Lab Values"
 summary: ""
 abstract: ""
 date: 2020-10-25
@@ -7,8 +7,6 @@ image:
   caption: ''
   focal_point: Smart
 ---
-
-### King Lab Values
 
 In the King Lab, we collectively stand by the following values:
 
