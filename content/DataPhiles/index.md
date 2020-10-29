@@ -31,6 +31,7 @@ If you are interested in DataPhiles, then consider joining MU R Users slack grou
 
 #### October 2020
 
+- October 30: Michael Moore
 - October 23: Open Q & A
 - October 16: Patricka Williams-Simon
 - October 9: Gaurav Kandlikar
