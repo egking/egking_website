@@ -29,6 +29,13 @@ If you are interested in DataPhiles, then consider joining MU R Users slack grou
 
 ### Schedule
 
+#### November 2020
+
+- November 27: No DataPhiles (Thanksgiving Holiday)
+- November 20: TBD
+- November 13: Open Q & A
+- November 6: No DataPhiles
+
 #### October 2020
 
 - October 30: Michael Moore
