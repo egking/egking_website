@@ -29,10 +29,14 @@ If you are interested in DataPhiles, then consider joining MU R Users slack grou
 
 ### Schedule
 
+#### DataPhiles is "on demand" until the spring semester
+
+Contact [kingeg@missouri.edu](mailto:kingeg@missouri.edu) to schedule a session (Friday at 3:30) anytime and we'll convene a meeting!
+
 #### November 2020
 
 - November 27: No DataPhiles (Thanksgiving Holiday)
-- November 20: TBD
+- November 20: Joe Gunn
 - November 13: Open Q & A
 - November 6: No DataPhiles
 
