@@ -29,9 +29,11 @@ If you are interested in DataPhiles, then consider joining MU R Users slack grou
 
 ### Schedule
 
-#### DataPhiles is "on demand" until the spring semester (in January 2020)
+#### January 2021
 
-Contact [kingeg@missouri.edu](mailto:kingeg@missouri.edu) to schedule a session (Friday at 3:30) anytime and we'll convene a meeting!
+- January 22: Open Q & A
+
+#### Winter Break Hiatus
 
 #### November 2020
 
