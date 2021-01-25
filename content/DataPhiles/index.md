@@ -29,8 +29,16 @@ If you are interested in DataPhiles, then consider joining MU R Users slack grou
 
 ### Schedule
 
+#### February 2021
+ 
+- February 26: TBD
+- February 19: TBD
+- February 12: TBD
+- February 5: TBD
+
 #### January 2021
 
+- January 29: No DataPhiles 
 - January 22: Open Q & A
 
 #### Winter Break Hiatus
