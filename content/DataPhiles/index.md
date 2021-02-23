@@ -31,7 +31,7 @@ If you are interested in DataPhiles, then consider joining MU R Users slack grou
 
 #### February 2021
  
-- February 26: TBD
+- February 26: Kevin Middleton, Making R Packages
 - February 19: Open Q & A
 - February 12: Open Q & A
 - February 5: Open Q & A
