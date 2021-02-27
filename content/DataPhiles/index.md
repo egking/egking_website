@@ -29,9 +29,18 @@ If you are interested in DataPhiles, then consider joining MU R Users slack grou
 
 ### Schedule
 
+#### March 2021
+
+- March 5
+- March 12
+- March 19
+- March 26
+
 #### February 2021
  
 - February 26: Kevin Middleton, Making R Packages
+    - Video: https://youtu.be/QOvZV2lkL9w
+    - Step by step: https://docs.google.com/document/d/17opEFHKGkaflOed0iww2FscIFP-_7xPKPKqcelmVAgQ/edit?usp=sharing
 - February 19: Open Q & A
 - February 12: Open Q & A
 - February 5: Open Q & A
