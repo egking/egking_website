@@ -31,10 +31,10 @@ If you are interested in DataPhiles, then consider joining MU R Users slack grou
 
 #### March 2021
 
-- March 5
-- March 12
-- March 19
-- March 26
+- March 26: TBD
+- March 19: TBD
+- March 12: Levi Storks
+- March 5: Open Q & A
 
 #### February 2021
  
