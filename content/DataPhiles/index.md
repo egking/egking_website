@@ -29,9 +29,18 @@ If you are interested in DataPhiles, then consider joining MU R Users slack grou
 
 ### Schedule
 
+#### Summer Hiatus
+DataPhiles is currently on demand - simply request a meeting and we'll schedule one!
+
+#### April 2021
+
+- April 16: Open Q & A
+- April 9: Open Q & A
+- April 2: No DataPhiles (MU Spring Break)
+
 #### March 2021
 
-- March 26: TBD
+- March 26: Open Q & A
 - March 19: Open Q & A
 - March 12: Levi Storks
 - March 5: Open Q & A
