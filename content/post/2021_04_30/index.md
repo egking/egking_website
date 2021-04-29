@@ -1,5 +1,5 @@
 ---
-title: "Lab Members recieve COVID vaccinations: Update to our Guidelines"
+title: "Lab Members receive COVID vaccinations: Update to our Guidelines"
 summary: ""
 abstract: ""
 date: 2020-05-18
