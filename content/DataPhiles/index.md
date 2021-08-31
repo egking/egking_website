@@ -29,6 +29,10 @@ If you are interested in DataPhiles, then consider joining MU R Users slack grou
 
 ### Schedule
 
+#### September 2021
+
+- September 3: Libby King
+
 #### August 2021
 
 - August 27: Open Q & A
