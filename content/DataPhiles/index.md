@@ -29,8 +29,17 @@ If you are interested in DataPhiles, then consider joining MU R Users slack grou
 
 ### Schedule
 
+#### October 2021
+
+- October 15: Kate Wynne
+- October 8: TBD
+- October 1: TBD
+
 #### September 2021
 
+- September 24: TBD
+- September 17: No DataPhiles
+- September 10: Open Q & A 
 - September 3: Libby King
 
 #### August 2021
