@@ -31,7 +31,8 @@ If you are interested in DataPhiles, then consider joining MU R Users slack grou
 
 #### October 2021
 
-- October 22: Christian Perez
+- October 29: Christian Perez
+- October 22: Joe Gunn
 - October 15: Kate Wynne
 - October 8: No DataPhiles
 - October 1: Open Q & A
