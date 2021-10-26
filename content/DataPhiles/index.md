@@ -29,6 +29,13 @@ If you are interested in DataPhiles, then consider joining MU R Users slack grou
 
 ### Schedule
 
+#### November 2021
+
+- November 26: No DataPhiles (Native American Heritage Day)
+- November 19: Kyle Stiers
+- November 12: TBD
+- November 5: Brittany Harried
+
 #### October 2021
 
 - October 29: Christian Perez
