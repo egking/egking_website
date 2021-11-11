@@ -10,7 +10,7 @@ image:
 ---
 
 <figure>
-<img src="groupnews.png" width = "75%">
+<img src="groupnews.png">
 <figcaption>Patricka, Jordyn & Dr. King, Andrew & Dr. King, and Enoch.</figcaption>
 </figure>
 
