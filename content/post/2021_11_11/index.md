@@ -9,6 +9,11 @@ image:
   focal_point: Smart
 ---
 
+<figure>
+<img src="groupnews.png" width = "75%">
+<figcaption>Patricka, Jordyn & Dr. King, Andrew & Dr. King, and Enoch.</figcaption>
+</figure>
+
 Many of our lab members have had exciting news over the last year but I have not been keeping up with updating our lab news page. I could not be more proud of all of the amazing things they have accomplished, especially during a global pandemic. Some major highlights include:
 
 - [Elizabeth Jones](/authors/aejones/) started in a PhD program at the University of Kansas Medical Center!
