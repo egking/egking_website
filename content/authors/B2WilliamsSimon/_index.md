@@ -51,5 +51,9 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Lab Members
+- Lab Alumni
 ---
+
+### Current Position
+
+NSF Postdoctoral Scholar at the University of Pennsylvania 
