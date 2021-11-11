@@ -69,6 +69,6 @@ user_groups:
 - Lab Info
 ---
 
-{{<figure library="true" src="labgroup.jpg" width="75%">}}
+{{<figure library="true" src="lab_masked.JPG" width="75%">}}
 
 In the King Lab, we are trying to understand the genetic basis and evolution of organismal allocation patterns. The core life processes for every organism, such as surviving in the environment, finding food and mates, and reproducing, require the organism to allocate some of its limited resources to these functions. Different selective pressures have produced the diversity of strategies that we see within and among species in how and when to allocate resources to different structures and functions. We use both computational and empirical techniques to try to understand both how different allocation strategies evolve and the underlying genetic architecture of this highly complex trait.
