@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Part-time Researcher
+role: Undergraduate Student
 
 # Organizations/Affiliations
 organizations:
