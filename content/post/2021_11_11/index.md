@@ -11,7 +11,7 @@ image:
 
 <figure>
 <img src="groupnews.png">
-<figcaption>Patricka, Jordyn & Dr. King, Andrew & Dr. King, and Enoch.</figcaption>
+<figcaption>Patricka, Jordyn & Dr. King, Enoch, and Andrew & Dr. King.</figcaption>
 </figure>
 
 Many of our lab members have had exciting news over the last year but I have not been keeping up with updating our lab news page. I could not be more proud of all of the amazing things they have accomplished, especially during a global pandemic. Some major highlights include:
