@@ -29,7 +29,6 @@ education:
   courses:
   - course: M.S. Biotechnology
     institution: Johns Hopkins University 
-  courses:
   - course: B.S. Biochemistry
     institution: Coastal Carolina University 
 
