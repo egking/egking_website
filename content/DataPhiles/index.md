@@ -29,6 +29,11 @@ If you are interested in DataPhiles, then consider joining MU R Users slack grou
 
 ### Schedule
 
+#### December 2021
+
+- December 10: Shawn Thomas
+- December 3: No DataPhiles
+
 #### November 2021
 
 - November 26: No DataPhiles (Native American Heritage Day)
