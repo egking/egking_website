@@ -9,7 +9,8 @@ image:
   focal_point: Smart
 ---
 
-<iframe src='https://biology.missouri.edu/news/show-me-science' ></iframe>
+Lab members Patricka Williams-Simon and Elizabeth King co-created and co-led a new initiative to highlight the diversity of the scientists working at MU called Show-Me Science. See [this news  write-up](https://biology.missouri.edu/news/show-me-science) about this initiate to learn more or [watch the videos of these amazing scientists!](https://www.youtube.com/playlist?list=PLYN0CTboXx72ltvIQwLtSumJWPBBjr8sR) 
+
 
 
 
