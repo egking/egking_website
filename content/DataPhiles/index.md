@@ -29,6 +29,9 @@ If you are interested in DataPhiles, then consider joining MU R Users slack grou
 
 ### Schedule
 
+#### Winter Hiatus
+DataPhiles is on demand - simply request a meeting and we'll schedule one!
+
 #### December 2021
 
 - December 10: Shawn Thomas
