@@ -18,6 +18,8 @@ DataPhiles is a community for those who love data. Email Dr. King to request to 
 
 DataPhiles is an opportunity to discuss practical issues surrounding analyzing data in an informal, low pressure forum. Each week, a volunteer will bring a data set, give a short presentation (8-12 minutes) outlining the basic biology/natural history of their system, giving a general description of their questions (why/what they want out of the data), perhaps presenting a few preliminary and/or graphical results on the data (graphical presentations of the data are strongly encouraged), and a description of the statistical techniques they've used or are thinking of using, or particular problems they're having with the analysis. The floor is then open for general question & answer/discussion. Email a one- or two-sentence blurb about your topic to volunteer to present: [kingeg@missouri.edu](mailto:kingeg@missouri.edu)
 
+The last DataPhiles of each month will be an open Q & A format where anyone can bring any questions they have about data analysis. 
+
 ### MU R Users Slack Group
 
 <figure>
@@ -28,6 +30,11 @@ If you are interested in DataPhiles, then consider joining MU R Users slack grou
 
 
 ### Schedule
+
+#### January 2022
+
+- January 28: Open Q & A 
+- January 21: Levi Storks
 
 #### Winter Hiatus
 DataPhiles is on demand - simply request a meeting and we'll schedule one!
