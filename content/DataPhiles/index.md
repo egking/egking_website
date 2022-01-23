@@ -31,6 +31,13 @@ If you are interested in DataPhiles, then consider joining MU R Users slack grou
 
 ### Schedule
 
+#### February 2022
+
+- February 25: Open Q & A 
+- February 18: TBD
+- February 11: TBD
+- February 4: TBD
+
 #### January 2022
 
 - January 28: Open Q & A 
