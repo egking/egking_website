@@ -34,9 +34,9 @@ If you are interested in DataPhiles, then consider joining MU R Users slack grou
 #### February 2022
 
 - February 25: Open Q & A 
-- February 18: TBD
-- February 11: TBD
-- February 4: TBD
+- February 18: Victoria Hamlin
+- February 11: Zack Miller
+- February 4: Kevin Middleton
 
 #### January 2022
 
