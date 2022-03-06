@@ -26,7 +26,7 @@ The last DataPhiles of each month will be an open Q & A format where anyone can 
 <img style = "float:right; margin: 0 0 0 0" src="/img/R_MUSers.png" width="20%"  />
 </figure>
 
-If you are interested in DataPhiles, then consider joining MU R Users slack group. We hope this will be a place where people can ask questions and help each other out, as are trying to build a self-sustaining community of R people across disciplines. [Join the Slack group here](https://join.slack.com/t/r-musers-group/shared_invite/zt-d0cfjxys-QTfy4wF~0cOHu9PH0xZ5mg) or email for more information: [kingeg@missouri.edu](mailto:kingeg@missouri.edu).
+If you are interested in DataPhiles, then consider joining MU R Users slack group. We hope this will be a place where people can ask questions and help each other out. We are trying to build a self-sustaining community of R people across disciplines. [Join the Slack group here](https://join.slack.com/t/r-musers-group/shared_invite/zt-d0cfjxys-QTfy4wF~0cOHu9PH0xZ5mg) or email for more information: [kingeg@missouri.edu](mailto:kingeg@missouri.edu).
 
 
 ### Schedule
