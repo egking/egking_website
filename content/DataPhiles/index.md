@@ -41,7 +41,7 @@ If you are interested in DataPhiles, then consider joining MU R Users slack grou
 #### March 2022
 
 - March 25: Open Q & A 
-- March 18: TBD
+- March 18: [Discussion of "Rewriting results sections in the language of evidence"](https://www.sciencedirect.com/science/article/pii/S0169534721002846?via%3Dihub)
 - March 11: Johana Goyes Vallejos
 - March 4: No DataPhiles
 
