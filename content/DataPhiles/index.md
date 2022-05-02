@@ -31,6 +31,9 @@ If you are interested in DataPhiles, then consider joining MU R Users slack grou
 
 ### Schedule
 
+#### Summer Hiatus (May - August 2022)
+DataPhiles is on demand - simply request a meeting and we'll schedule one!
+
 #### April 2022
 
 - April 30: Open Q & A 
