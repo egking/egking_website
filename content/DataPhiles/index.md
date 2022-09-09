@@ -33,10 +33,10 @@ If you are interested in DataPhiles, then consider joining MU R Users slack grou
 
 #### September 2022
 
-- September 28: TBD
-- September 21: TBD
-- September 14: TBD
-- September 7: TBD
+- September 28: Open Q & A (Drs. King & Middleton will be away)
+- September 21: Open Q & A (Drs. King & Middleton will be away)
+- September 14: Libby King
+- September 7: Johana Goyes Vallejos
 
 #### Summer Hiatus (May - August 2022)
 DataPhiles is on demand - simply request a meeting and we'll schedule one!
