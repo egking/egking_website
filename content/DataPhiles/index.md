@@ -31,6 +31,13 @@ If you are interested in DataPhiles, then consider joining MU R Users slack grou
 
 ### Schedule
 
+#### October 2022
+
+- October 26: Open Q & A
+- October 19: TBD
+- October 12: Ed Merkle
+- October 5: Kevin Middleton
+
 #### September 2022
 
 - September 28: Open Q & A (Drs. King & Middleton will be away)
