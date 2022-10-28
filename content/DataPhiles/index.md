@@ -31,6 +31,13 @@ If you are interested in DataPhiles, then consider joining MU R Users slack grou
 
 ### Schedule
 
+#### November 2022
+
+- November 25: No DataPhiles - Thanksgiving Week
+- November 18: Open Q & A
+- November 11: TBD
+- November 4: No DataPhiles
+
 #### October 2022
 
 - October 26: Open Q & A
