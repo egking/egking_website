@@ -31,12 +31,17 @@ If you are interested in DataPhiles, then consider joining MU R Users slack grou
 
 ### Schedule
 
+#### December 2022
+
+- December 7: Jacob Kelly
+
 #### November 2022
 
-- November 25: No DataPhiles - Thanksgiving Week
-- November 18: Open Q & A
-- November 11: TBD
-- November 4: No DataPhiles
+- November 30: No DataPhiles
+- November 23: No DataPhiles - Thanksgiving Week
+- November 16: Open Q & A
+- November 9: No DataPhiles
+- November 2: No DataPhiles
 
 #### October 2022
 
