@@ -31,9 +31,10 @@ If you are interested in DataPhiles, then consider joining MU R Users slack grou
 
 ### Schedule
 
-#### December 2022
+#### December 2022 
 
 - December 7: Jacob Kelly
+
 
 #### November 2022
 
