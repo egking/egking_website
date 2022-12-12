@@ -31,6 +31,9 @@ If you are interested in DataPhiles, then consider joining MU R Users slack grou
 
 ### Schedule
 
+#### DataPhiles is currently on a Winter Hiatus until the start of the next semester
+
+
 #### December 2022 
 
 - December 7: Jacob Kelly
