@@ -31,8 +31,10 @@ If you are interested in DataPhiles, then consider joining MU R Users slack grou
 
 ### Schedule
 
-#### DataPhiles is currently on a Winter Hiatus until the start of the next semester
 
+#### January 2023
+
+- January 25: Peyton Warren
 
 #### December 2022 
 
