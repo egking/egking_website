@@ -32,10 +32,17 @@ If you are interested in DataPhiles, then consider joining MU R Users slack grou
 ### Schedule
 
 
+#### March 2023
+
+- March 22: TBD
+- March 15: TBD
+- March 8: TBD
+- March 1: Open Q & A
+
 #### February 2023
 
 - February 22: Data Visualization Class Projects
-- February 15: TBD
+- February 15: No DataPhiles
 - February 8: Victoria Hamlin
 - February 1: Open Q & A
 
