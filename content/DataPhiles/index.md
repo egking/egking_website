@@ -36,7 +36,7 @@ If you are interested in DataPhiles, then consider joining MU R Users slack grou
 
 - March 22: TBD
 - March 15: TBD
-- March 8: TBD
+- March 8: Daniel Kick
 - March 1: Open Q & A
 
 #### February 2023
