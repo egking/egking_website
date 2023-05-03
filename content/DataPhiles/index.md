@@ -36,6 +36,10 @@ If you are interested in DataPhiles, then consider joining MU R Users slack grou
 
 - Get in touch to schedule a meeting!
 
+#### May 2023
+
+- May 10: Joe Gunn
+
 #### April 2023
 
 - April 19: Open Experiment/Analysis Planning Session
