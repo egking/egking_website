@@ -36,7 +36,7 @@ If you are interested in DataPhiles, then consider joining MU R Users slack grou
 
 - October 25: TBD
 - October 18: TBD
-- October 11: Open Q & A
+- October 11: Ellen Mazalale
 - October 4: Double Feature: Esdras Tuyishimire and Zaynab Shakkour
 
 
