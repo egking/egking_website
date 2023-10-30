@@ -32,10 +32,18 @@ If you are interested in DataPhiles, then consider joining MU R Users slack grou
 ### Schedule
 
 
-#### September 2023
+#### November 2023
 
-- October 25: TBD
-- October 18: TBD
+- November 29: TBD
+- November 22: No DataPhiles
+- November 15: TBD
+- November 8: TBD
+- November 1: Open Q & A
+
+#### October 2023
+
+- October 25: No DataPhiles
+- October 18: Open Q & A
 - October 11: Ellen Mazalale
 - October 4: Double Feature: Esdras Tuyishimire and Zaynab Shakkour
 
