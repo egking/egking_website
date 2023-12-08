@@ -31,13 +31,19 @@ If you are interested in DataPhiles, then consider joining MU R Users slack grou
 
 ### Schedule
 
+#### Winter Hiatus 
+DataPhiles is on demand - simply request a meeting and we'll schedule one!
+
+#### December 2023
+
+- December 6: Open Q & A
 
 #### November 2023
 
-- November 29: TBD
+- November 29: No DataPhiles
 - November 22: No DataPhiles
-- November 15: TBD
-- November 8: TBD
+- November 15: No DataPhiles
+- November 8: No DataPhiles
 - November 1: Open Q & A
 
 #### October 2023
