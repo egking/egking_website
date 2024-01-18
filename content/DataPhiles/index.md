@@ -33,14 +33,14 @@ If you are interested in DataPhiles, then consider joining MU R Users slack grou
 
 #### February 2024
 
-- February 28: Open Q & A
+- February 28: Data Viz Projects
 - February 21: Data Viz Projects
-- February 14: Data Viz Projects
-- February 7: TBD
+- February 14: TBD
+- February 7: Open Q & A
 
 #### January 2024
 
-- January 31: Open Q & A
+- January 31: TBD
 
 #### Winter Hiatus 
 
