@@ -40,7 +40,7 @@ If you are interested in DataPhiles, then consider joining MU R Users slack grou
 
 #### January 2024
 
-- January 31: TBD
+- January 31: Carmen Martin
 
 #### Winter Hiatus 
 
