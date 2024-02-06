@@ -33,8 +33,8 @@ If you are interested in DataPhiles, then consider joining MU R Users slack grou
 
 #### February 2024
 
-- February 28: Data Viz Projects
-- February 21: Data Viz Projects
+- February 28: Data Viz Projects: Chris, Nadine, Mara
+- February 21: Data Viz Projects: Melissa, Jaylon
 - February 14: TBD
 - February 7: Open Q & A
 
