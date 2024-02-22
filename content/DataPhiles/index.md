@@ -31,6 +31,14 @@ If you are interested in DataPhiles, then consider joining MU R Users slack grou
 
 ### Schedule
 
+#### March 2024
+
+- March 27: No DataPhiles (spring break)
+- March 20: Data Viz Projects
+- March 13: Hosting Mizzou Modeling Group: [Discussion of Chapter 4 of Ecological Modes and Data in R](https://math.mcmaster.ca/~bolker/emdbook/book.pdf)
+[Link to book website](https://math.mcmaster.ca/~bolker/emdbook/index.html)  
+- March 6: Open Q & A
+
 #### February 2024
 
 - February 28: Data Viz Projects: Chris, Nadine, Mara
