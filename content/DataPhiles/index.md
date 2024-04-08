@@ -31,6 +31,14 @@ If you are interested in DataPhiles, then consider joining MU R Users slack grou
 
 ### Schedule
 
+#### April 2024
+
+- April 24: TBD
+- April 17: Srikant Venkitachalam
+- April 10: Hosting Mizzou Modeling Group: [Discussion of Chapter 5 of Ecological Modes and Data in R](https://math.mcmaster.ca/~bolker/emdbook/book.pdf) Here is the [link to book website](https://math.mcmaster.ca/~bolker/emdbook/index.html)
+- April 3: Open Q & A
+
+
 #### March 2024
 
 - March 27: No DataPhiles (spring break)
