@@ -31,9 +31,13 @@ If you are interested in DataPhiles, then consider joining MU R Users slack grou
 
 ### Schedule
 
+#### May 2024
+
+- May 8: Open Q & A
+- May 1: Christian Perez
+
 #### April 2024
 
-- April 24: TBD
 - April 17: Srikant Venkitachalam
 - April 10: Hosting Mizzou Modeling Group: [Discussion of Chapter 5 of Ecological Modes and Data in R](https://math.mcmaster.ca/~bolker/emdbook/book.pdf) Here is the [link to book website](https://math.mcmaster.ca/~bolker/emdbook/index.html)
     - Gamma distribution: <a id="raw-url" href="https://raw.githubusercontent.com/kmiddleton/Dataphiles/main/Gamma.qmd">qmd</a>, <a id="raw-url" href="https://raw.githubusercontent.com/kmiddleton/Dataphiles/main/Gamma.html">HTML</a>
