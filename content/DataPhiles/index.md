@@ -33,7 +33,7 @@ If you are interested in DataPhiles, then consider joining MU R Users slack grou
 
 #### May 2024
 
-- May 8: Open Q & A
+- May 8: Hosting Mizzou Modeling Group: [Discussion of Chapter 6 of Ecological Modes and Data in R](https://math.mcmaster.ca/~bolker/emdbook/book.pdf) Here is the [link to book website](https://math.mcmaster.ca/~bolker/emdbook/index.html)
 - May 1: Christian Perez
 
 #### April 2024
