@@ -33,6 +33,13 @@ If you are interested in DataPhiles, then consider joining MU R Users slack grou
 
 ### DataPhiles is on demand for the summer and will return to regular meetings in September
 
+#### September 2024
+
+- September 25: TBD
+- September 18: DataPhiles Data Visualization Final Projects
+- September 11: Srikant Venkitachalam
+- September 4: Open Q & A
+
 #### May 2024
 
 - May 8: Hosting Mizzou Modeling Group: [Discussion of Chapter 6 of Ecological Modes and Data in R](https://math.mcmaster.ca/~bolker/emdbook/book.pdf) Here is the [link to book website](https://math.mcmaster.ca/~bolker/emdbook/index.html)
