@@ -35,9 +35,9 @@ If you are interested in DataPhiles, then consider joining MU R Users slack grou
 
 #### September 2024
 
-- September 25: TBD
+- September 25: Srikant Venkitachalam
 - September 18: QMLS2 Data Visualization Final Projects
-- September 11: Srikant Venkitachalam
+- September 11: Johana Goyes Vallejos
 - September 4: Open Q & A
 
 #### May 2024
