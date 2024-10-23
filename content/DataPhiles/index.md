@@ -31,13 +31,13 @@ If you are interested in DataPhiles, then consider joining MU R Users slack grou
 
 ### Schedule
 
-### DataPhiles is on demand for the summer and will return to regular meetings in September
+#### DataPhiles is on an "on demand" schedule with meetings scheduled whenever someone requests one.
 
 #### October 2024
 
 - October 23: QMLS2 Data Visualization Final Projects
-- October 16: TBD
-- October 9: TBD
+- October 16: No DataPhiles
+- October 9: No DataPhiles
 - October 2: Open Q & A
 
 #### September 2024
