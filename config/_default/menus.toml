@@ -14,11 +14,6 @@
   weight = 20
 
 [[main]]
-  name = "Lab News"
-  url = "#posts"
-  weight = 15
-
-[[main]]
   name = "Projects"
   url = "#projects"
   weight = 30
